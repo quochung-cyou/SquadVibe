@@ -1,0 +1,8 @@
+{
+  "name": "SquadVibe",
+  "description": "A high-fashion, mobile-first social styling tool powered by Gemini. Curate your squad, manage a digital wardrobe, and composite scenes in a virtual studio.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
